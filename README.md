@@ -39,7 +39,7 @@ The dashboard brings multiple sales dimensions into a single interactive reporti
 
 ## 📸 Dashboard Preview
 
-![Mobile Sales Report](mobile-sales-dashboard.png)
+![Mobile Sales Report](Mobile-Sales-Dashboard.jpg)
 
 
 ## 💬 Feedback
