@@ -37,8 +37,9 @@ The objective of this project is to provide a consolidated view of mobile sales 
 
 The dashboard brings multiple sales dimensions into a single interactive reporting view, allowing users to monitor KPIs, compare brands and mobile models, analyze customer and payment patterns, and explore sales trends efficiently.
 
+## 📸 Dashboard Preview
 
-
+![Mobile Sales Report](mobile-sales-dashboard.png)
 
 
 ## 💬 Feedback
